@@ -9,9 +9,9 @@
  
 <br>
 
-## 💻 DEV's log 💻
+## 💻 SungHyun's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="[https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741](https://www.notion.so/f98db533fad04c318caeed0457c01c2e)">
+    <a href="https://www.notion.so/f98db533fad04c318caeed0457c01c2e">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
