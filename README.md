@@ -61,10 +61,10 @@
 -----
 
 
-### Hello, I'm Wooram 👋
+### Hello, I'm Sunghyun 👋
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Wooram's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sunghyun's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
 </div>
 
 ## Profile
