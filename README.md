@@ -12,7 +12,7 @@
   </h2>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosel70&layout=donut">
-    <img src="https://github-readme-stats.vercel.app/api?username=dosel70&theme=midnight-purple&show_icons=true&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=dosel70&theme=skyblue&show_icons=true&rank_icon=github">
   </div>
 </div>
  
