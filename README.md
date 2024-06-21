@@ -20,7 +20,7 @@
 
 ## 💻 SungHyun's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.notion.so/f98db533fad04c318caeed0457c01c2e">
+    <a href="https://stealth-orca-b07.notion.site/f98db533fad04c318caeed0457c01c2e">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
